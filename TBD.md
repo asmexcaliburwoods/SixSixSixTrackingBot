@@ -1,1 +1,1 @@
- * https://any.surf/app/SixSixTrackingBot — A Flutter app for your life. Freemium.
+ * https://any.surf/app/SixSixSixTrackingBot — A Flutter app for your life. Freemium.
